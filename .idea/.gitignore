@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../web_db1\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../:\Study\intelliJ_paste\spring-mvc-ex-master\web_db1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
